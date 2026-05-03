@@ -1,0 +1,221 @@
+{
+    "transcript_text": "Hi, I recently invested in an equity mutual fund through my SIP.  I want to know, if I redeem my units after 14 months, how will my gains be taxed?  And will any TDS be deducted?",
+    "confidence_scores": [
+        {
+            "word": " Hi,",
+            "start": 0.0,
+            "end": 0.4,
+            "probability": 0.9264627695083618
+        },
+        {
+            "word": " I",
+            "start": 0.74,
+            "end": 0.84,
+            "probability": 0.9765816926956177
+        },
+        {
+            "word": " recently",
+            "start": 0.84,
+            "end": 1.14,
+            "probability": 0.9984706044197083
+        },
+        {
+            "word": " invested",
+            "start": 1.14,
+            "end": 1.72,
+            "probability": 0.9987014532089233
+        },
+        {
+            "word": " in",
+            "start": 1.72,
+            "end": 1.92,
+            "probability": 0.9836363196372986
+        },
+        {
+            "word": " an",
+            "start": 1.92,
+            "end": 2.02,
+            "probability": 0.992375910282135
+        },
+        {
+            "word": " equity",
+            "start": 2.02,
+            "end": 2.34,
+            "probability": 0.8258743286132812
+        },
+        {
+            "word": " mutual",
+            "start": 2.34,
+            "end": 2.74,
+            "probability": 0.9861103296279907
+        },
+        {
+            "word": " fund",
+            "start": 2.74,
+            "end": 3.12,
+            "probability": 0.9991447925567627
+        },
+        {
+            "word": " through",
+            "start": 3.12,
+            "end": 3.34,
+            "probability": 0.9969961643218994
+        },
+        {
+            "word": " my",
+            "start": 3.34,
+            "end": 3.5,
+            "probability": 0.9882163405418396
+        },
+        {
+            "word": " SIP.",
+            "start": 3.5,
+            "end": 3.94,
+            "probability": 0.9511185586452484
+        },
+        {
+            "word": " I",
+            "start": 5.2,
+            "end": 5.3,
+            "probability": 0.9943034648895264
+        },
+        {
+            "word": " want",
+            "start": 5.3,
+            "end": 5.48,
+            "probability": 0.9984133243560791
+        },
+        {
+            "word": " to",
+            "start": 5.48,
+            "end": 5.66,
+            "probability": 0.9995163679122925
+        },
+        {
+            "word": " know,",
+            "start": 5.66,
+            "end": 5.86,
+            "probability": 0.9994065761566162
+        },
+        {
+            "word": " if",
+            "start": 6.2,
+            "end": 6.34,
+            "probability": 0.948408305644989
+        },
+        {
+            "word": " I",
+            "start": 6.34,
+            "end": 6.46,
+            "probability": 0.9923962950706482
+        },
+        {
+            "word": " redeem",
+            "start": 6.46,
+            "end": 6.74,
+            "probability": 0.8893029689788818
+        },
+        {
+            "word": " my",
+            "start": 6.74,
+            "end": 6.96,
+            "probability": 0.9986177682876587
+        },
+        {
+            "word": " units",
+            "start": 6.96,
+            "end": 7.2,
+            "probability": 0.9894288182258606
+        },
+        {
+            "word": " after",
+            "start": 7.2,
+            "end": 7.5,
+            "probability": 0.997670590877533
+        },
+        {
+            "word": " 14",
+            "start": 7.5,
+            "end": 7.9,
+            "probability": 0.9713667035102844
+        },
+        {
+            "word": " months,",
+            "start": 7.9,
+            "end": 8.38,
+            "probability": 0.995902955532074
+        },
+        {
+            "word": " how",
+            "start": 8.68,
+            "end": 8.82,
+            "probability": 0.9880883097648621
+        },
+        {
+            "word": " will",
+            "start": 8.82,
+            "end": 8.94,
+            "probability": 0.9962736368179321
+        },
+        {
+            "word": " my",
+            "start": 8.94,
+            "end": 9.08,
+            "probability": 0.9985551238059998
+        },
+        {
+            "word": " gains",
+            "start": 9.08,
+            "end": 9.3,
+            "probability": 0.9931303858757019
+        },
+        {
+            "word": " be",
+            "start": 9.3,
+            "end": 9.52,
+            "probability": 0.9994103908538818
+        },
+        {
+            "word": " taxed?",
+            "start": 9.52,
+            "end": 10.22,
+            "probability": 0.998759388923645
+        },
+        {
+            "word": " And",
+            "start": 11.06,
+            "end": 11.24,
+            "probability": 0.9235166907310486
+        },
+        {
+            "word": " will",
+            "start": 11.24,
+            "end": 11.36,
+            "probability": 0.9905597567558289
+        },
+        {
+            "word": " any",
+            "start": 11.36,
+            "end": 11.6,
+            "probability": 0.9985313415527344
+        },
+        {
+            "word": " TDS",
+            "start": 11.6,
+            "end": 12.0,
+            "probability": 0.9567360877990723
+        },
+        {
+            "word": " be",
+            "start": 12.0,
+            "end": 12.28,
+            "probability": 0.9581032395362854
+        },
+        {
+            "word": " deducted?",
+            "start": 12.28,
+            "end": 12.84,
+            "probability": 0.9998506605625153
+        }
+    ]
+}
