@@ -14,7 +14,7 @@ An end-to-end, fully local Voice-to-RAG (Retrieval-Augmented Generation) pipelin
 
 Ensure your project is structured as follows before execution:
 ```text
-sunrise_amc_project/
+sunrise_amc_assignment/
 ├── data/               # Auto-generated ChromaDB vector store
 ├── input/              # REQUIRED: Place input files here
 │   ├── SunriseAMC_FAQ.pdf       
@@ -52,7 +52,7 @@ ollama pull llama3
 ```
 
 **3. Setup Python Virtual Environment**
-From the root of your project directory (`ml_project/`):
+From the root of your project directory (`sunrise_amc_assignment/`):
 ```bash
 # Create and activate the virtual environment
 python3 -m venv venv
