@@ -1,10 +1,4 @@
-Here is the updated `README.md` with the new paragraph explicitly detailing the latency differences between the Google Colab GPU environment and the local Ubuntu CPU environment. 
 
-You can replace your entire current README with this version.
-
-***
-
-```markdown
 # Sunrise AMC: Voice-Powered Investor Support Assistant
 
 An end-to-end, fully local Voice-to-RAG (Retrieval-Augmented Generation) pipeline designed to handle mutual fund investor queries. This prototype processes audio questions, retrieves relevant context from a knowledge base, and generates grounded, accurate responses—all running completely offline.
