@@ -89,4 +89,3 @@ When testing this pipeline, you will notice a significant difference in inferenc
 During the Google Colab implementation, the pipeline leverages a dedicated NVIDIA T4 GPU, allowing for extremely low latency with the LLM generating responses in **less than 4 seconds per query**. 
 
 Conversely, when running this locally in the Ubuntu terminal using only a standard system CPU (with `int8` quantization applied to the ASR model), the system relies entirely on system RAM and CPU compute. This results in much higher latency, taking approximately **40 seconds per query**. This tradeoff highlights the necessity of GPU infrastructure for scaling this application in a production environment.
-```
