@@ -22,6 +22,7 @@ sunrise_amc_project/
 ├── output/             # Auto-generated transcription JSON logs
 ├── src/                
 │   └── main.py         # Core execution script
+├── venv                # Folder for virtual Enviroment
 ├── DECISIONS.md        # Architecture and design tradeoffs
 ├── README.md           # Documentation
 └── requirements.txt    # Python dependencies
